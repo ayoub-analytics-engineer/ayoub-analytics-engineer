@@ -1,187 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=AYOUB%20EL-OUICHOUANY&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=Junior%20Data%20Engineer%20%7C%20Analytics%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+# Ayoub El-ouichouany
 
-<br/>
+### Analytics Engineer
 
-<a href="https://www.linkedin.com/in/ayoub-el-ouichouany">
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+data+pipelines;Bronze+%E2%86%92+Silver+%E2%86%92+Gold%2C+the+Medallion+way;Airflow+%2B+dbt+%2B+Snowflake+%2B+Power+BI;Open+to+Junior+Data+Engineer+%2F+Analytics+Engineer+roles&font=Fira+Code&size=19&pause=1500&color=38BDF8&center=true&vCenter=true&width=680&height=45&separator=%3B"/>
-</a>
+**SQL • dbt • Snowflake • Python**
+
+Building reliable data pipelines, analytics-ready models, and BI solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-ouichouany/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-data--engineer.me-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white)](https://data-engineer.me/)
+[![Email](https://img.shields.io/badge/Email-ayoub%40data--engineer.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayoub@data-engineer.me)
+
+<sub>[About](#about) · [What I Build](#what-i-build) · [Engineering Proof](#engineering-scale--proof) · [Tech Stack](#tech-stack) · [Featured Projects](#featured-projects) · [Workflow](#data-engineering-workflow) · [Metrics](#github-metrics) · [Contact](#connect)</sub>
 
 </div>
 
-<br/>
+<br>
 
-<table width="100%">
+## About
+
+I'm an Analytics Engineer focused on turning raw, messy data into reliable, analytics-ready models. My work sits at the intersection of data engineering and analytics — designing pipelines that are correct, documented, and easy for downstream teams to trust.
+
+Core stack: **SQL, dbt, Snowflake, Python.**
+
+<br>
+
+## What I Build
+
+<table>
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<img src="https://avatars.githubusercontent.com/u/263759949?v=4" width="160" style="border-radius:50%"/>
+**Data Pipelines**
 
-### Ayoub El-ouichouany
-
-**Junior Data Engineer · Analytics Engineer**
-
-📍 Béni Mellal, Morocco 🇲🇦
-🎓 Data Analyst training @ CCFBS – Simplon Maghreb
-✅ Open to internships & junior roles
-
-<a href="https://www.linkedin.com/in/ayoub-el-ouichouany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ayoubelouichouany0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ayoub-data-analyst"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="tel:+212601892215"><img src="https://img.shields.io/badge/+212_601_892_215-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+Ingestion and transformation logic that turns raw source data into clean, reliable tables.
 
 </td>
-<td width="70%" valign="top">
+<td width="33%" valign="top">
 
-```yaml
-role:        Junior Data Engineer / Analytics Engineer / Data Analyst
-focus:       End-to-end data pipelines, modern data stack
-workflow:    ingest → transform (Medallion) → model → visualize
-core_stack:  [Python, SQL, Snowflake, Airflow, dbt, Power BI]
-status:      In training @ Simplon (Jan 2026 – present)
-looking_for: Junior Data Engineer / Analytics Engineer / Data Analyst role
+**Analytics-Ready Models**
+
+dbt models that are tested, documented, and structured for consistent downstream use.
+
+</td>
+<td width="33%" valign="top">
+
+**BI Solutions**
+
+Data marts and modeled tables that power business-facing dashboards and reporting.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Engineering Scale / Proof
+
+The table below shows measured results from the **Loan Default Analytics Platform** (see [Featured Projects](#featured-projects)) — a concrete example of the volumes and outcomes this stack has been used to handle.
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| Loan requests processed | **25M+** |
+| Accepted loans | **2.26M** |
+| Rejected loans | **23.23M** |
+| Acceptance rate | **8.86%** |
+| Default rate | **13.03%** |
+| Loans in default | **~294K** |
+
+</div>
+
+<br>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Analytics Engineering**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Data Warehousing**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Modeling & Transformation**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Featured Projects
+
+<details>
+<summary><b>💳 Loan Default Analytics Platform</b></summary>
+<br>
+
+An analytics platform built to process and model large-scale loan application data, from raw request volume through to acceptance and default outcomes.
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| Total loan requests | 25M+ |
+| Accepted | 2.26M |
+| Rejected | 23.23M |
+| Acceptance rate | 8.86% |
+| Default rate | 13.03% |
+| Defaults | ~294K |
+
+</div>
+
+**Stack:** SQL · dbt · Snowflake · Python
+
+</details>
+
+<br>
+
+## Data Engineering Workflow
+
+<div align="center">
+
+```
+Raw Source Data  →  Snowflake (Warehouse)  →  dbt (Transform & Model)  →  Analytics-Ready Tables  →  BI
 ```
 
-**Summary**
-Junior Data Engineer & Analytics Engineer with hands-on experience designing
-end-to-end pipelines across a modern data stack — from ingestion to BI
-dashboards. Comfortable orchestrating ETL/ELT with Apache Airflow and dbt,
-dimensional modeling on Snowflake and PostgreSQL, and building Power BI
-reporting solutions. On one project, this cut reporting time by 80% while
-handling 10M+ rows/day. Looking for a Junior Data Engineer, Analytics
-Engineer or Data Analyst role to ship scalable, cloud-based data solutions.
+</div>
 
-</td>
-</tr>
-</table>
+Data lands in Snowflake, gets transformed and tested through dbt into clean, documented models, and is then made available for BI and reporting use cases.
 
-<br/>
+<br>
+
+## GitHub Metrics
 
 <div align="center">
 
-### 🧠 Tech Stack
+![Metrics](https://raw.githubusercontent.com/ayoub-data-analyst/ayoub-data-analyst/main/metrics.svg)
 
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile_Scrum-6DB33F?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" height="45"/>
+![Languages & Activity](https://raw.githubusercontent.com/ayoub-data-analyst/ayoub-data-analyst/main/metrics.calendar.svg)
 
 </div>
 
-<br/>
+<sub>Generated automatically via [Lowlighter Metrics](https://github.com/lowlighter/metrics) — see `.github/workflows/metrics.yml` for configuration.</sub>
+
+<br>
+
+## Connect
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayoub-data-analyst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-data-analyst&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-data-analyst&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=C9D1D9"/>
-
-</div>
-
-<br/>
-
-## 📂 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏘️ Real Estate Data Warehouse
-`Snowflake` `dbt` `Apache Airflow` `Power BI` `Docker`
-
-**Problem** → Multi-country real estate listings arriving as raw, unstructured data with no analytics-ready layer
-**Solution** → Designed a Medallion architecture (Bronze/Silver/Gold) on Snowflake as part of a 4-person team; orchestrated dbt models via Airflow; connected Power BI directly to the Gold-layer star schema (`fact_listings` + 3 dimensions) for simplified, interactive reporting
-**Role** → Data engineering + BI integration within a team of 4
-
-</td>
-<td width="50%" valign="top">
-
-### 🪙 Crypto Market Data Platform
-`Python` `Apache Airflow` `Snowflake` `MinIO` `Power BI` `Docker`
-
-**Problem** → Real-time crypto market data needed a scalable, structured pipeline for analysis
-**Solution** → Built an end-to-end pipeline ingesting live data from the CoinGecko API, structured through a Medallion architecture; automated ingestion/transformation/orchestration with Airflow, stored in MinIO, modeled in Snowflake; delivered Power BI dashboards for market KPIs
-**Role** → Solo pipeline design, orchestration & dashboarding
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### 🏙️ Darkom Real Estate Analytics Platform
-`Python` `PostgreSQL` `SQLAlchemy` `Power BI`
-
-**Problem** → 1,508 real estate listings across 10 Moroccan cities needed cleaning and structure before any analysis was possible
-**Solution** → Built an analytical pipeline transforming raw listings into a structured dataset; handled missing values (city-level mode / grouped median) and outliers (IQR + business rules); modeled the data into a star schema on PostgreSQL; designed a 4-page interactive Power BI report covering pricing, segments and market performance
-**Role** → End-to-end: data quality, modeling, and BI reporting
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎓 Certifications & Education
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Certifications**
-- Data Engineering Professional Certificate — *Snowflake*
-- Power BI Essential Training — *LinkedIn Learning*
-- SQL Essential Training — *LinkedIn Learning*
-- Learning Docker — *LinkedIn Learning*, 2026
-
-</td>
-<td width="50%" valign="top">
-
-**Education**
-- Data Analyst Training — *CCFBS, Simplon Maghreb*, Jan 2026 – present
-- Baccalauréat, Economic Sciences — *Lycée Technique El Khawarezmi*, 2025
-
-**Languages**
-Arabic (native) · French (intermediate) · English (intermediate)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 📫 Let's Connect
-
-I'm actively looking for a **Junior Data Engineer, Analytics Engineer or Data Analyst** role.
-If you're building something data-driven, let's talk.
-
-<a href="https://www.linkedin.com/in/ayoub-el-ouichouany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ayoubelouichouany0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+212601892215"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoub--el--ouichouany-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-ouichouany/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-data--engineer.me-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://data-engineer.me/)
+[![Email](https://img.shields.io/badge/Email-ayoub%40data--engineer.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub@data-engineer.me)
 
 </div>
