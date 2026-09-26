@@ -2,80 +2,175 @@
 
 <img src="assets/hero.svg" width="100%" alt="Ayoub El-ouichouany — Analytics Engineer" />
 
+<br/>
+
 <sub>
-<a href="#core-metrics">CORE METRICS</a> ·
-<a href="#stack-analytics">STACK</a> ·
-<a href="#featured-projects">PROJECTS</a> ·
-<a href="#data-flow">FLOW</a> ·
-<a href="#activity-pulse">ACTIVITY</a> ·
-<a href="#github-metrics">GITHUB METRICS</a> ·
+<a href="#core-metrics">CORE</a> ·
+<a href="#stack">STACK</a> ·
+<a href="#projects">PROJECTS</a> ·
+<a href="#activity">ACTIVITY</a> ·
+<a href="#github">GITHUB</a> ·
 <a href="#connect">CONNECT</a>
 </sub>
 
 </div>
 
-<br/>
+---
 
 <a id="core-metrics"></a>
-<img src="assets/core-metrics.svg" width="100%" alt="Core metrics" />
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a id="stack-analytics"></a>
-<img src="assets/stack-analytics.svg" width="100%" alt="Stack analytics" />
+<img src="assets/core-metrics.svg"
+     width="100%"
+     alt="Core engineering metrics" />
 
-<br/>
+</td>
 
-<a id="featured-projects"></a>
+<td width="50%" valign="top">
 
+<a id="stack"></a>
+
+<img src="assets/stack-analytics.svg"
+     width="100%"
+     alt="Analytics engineering stack" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="projects"></a>
+
+<div align="center">
 <sub><b>FEATURED PROJECTS</b></sub>
-
-<!--
-  Add each repository's real URL below by replacing the "#" placeholders.
-  Do not remove the <a> wrapper — it's what makes each card clickable.
--->
-
-<a href="#"><img src="assets/project-loan.svg" width="100%" alt="Loan Default Analytics Platform" /></a>
-
-<a href="#"><img src="assets/project-realestate.svg" width="100%" alt="Real Estate Data Warehouse" /></a>
-
-<a href="#"><img src="assets/project-darkom.svg" width="100%" alt="Darkom Real Estate Analytics Platform" /></a>
+</div>
 
 <br/>
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+<a href="#">
+<img src="assets/project-loan.svg"
+     width="100%"
+     alt="Loan Default Analytics Platform" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="#">
+<img src="assets/project-realestate.svg"
+     width="100%"
+     alt="Real Estate Data Warehouse" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="#">
+<img src="assets/project-darkom.svg"
+     width="100%"
+     alt="Darkom Real Estate Analytics Platform" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <a id="data-flow"></a>
-<img src="assets/flow.svg" width="100%" alt="Data engineering flow" />
+
+<div align="center">
+<sub><b>DATA ENGINEERING FLOW</b></sub>
+</div>
 
 <br/>
-
-<a id="activity-pulse"></a>
-
-<sub><b>ACTIVITY PULSE</b> — generated automatically, updates daily</sub>
-
-<img src="assets/metrics-pulse.svg" width="100%" alt="Contribution activity" />
-
-<br/>
-
-<a id="github-metrics"></a>
-
-<sub><b>GITHUB METRICS</b> — generated automatically, updates daily</sub>
-
-<img src="assets/metrics-github.svg" width="100%" alt="GitHub stats and languages" />
-
-<br/>
-
-<a id="connect"></a>
 
 <div align="center">
 
+<img src="assets/flow.svg"
+     width="90%"
+     alt="Data engineering workflow" />
+
+</div>
+
+---
+
+<a id="activity"></a>
+
+<div align="center">
+<sub><b>ACTIVITY PULSE</b> · LIVE GITHUB ACTIVITY · AUTO-UPDATED</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/metrics-pulse.svg"
+     width="82%"
+     alt="GitHub contribution activity" />
+
+</div>
+
+---
+
+<a id="github"></a>
+
+<div align="center">
+<sub><b>GITHUB METRICS</b> · AUTO-UPDATED DAILY</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/metrics-github.svg"
+     width="82%"
+     alt="GitHub statistics and languages" />
+
+</div>
+
+---
+
+<a id="connect"></a>
+
+<br/>
+
+<div align="center">
+
+### CONNECT
+
 <sub>
-<a href="https://www.linkedin.com/in/ayoub-el-ouichouany/">LINKEDIN</a> ·
-<a href="https://data-engineer.me/">PORTFOLIO</a> ·
-<a href="https://github.com/ayoub-data-analyst">GITHUB</a> ·
+<a href="https://www.linkedin.com/in/ayoub-el-ouichouany/">LINKEDIN</a>
+&nbsp;·&nbsp;
+<a href="https://data-engineer.me/">PORTFOLIO</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/ayoub-data-analyst">GITHUB</a>
+&nbsp;·&nbsp;
 <a href="mailto:ayoub@data-engineer.me">EMAIL</a>
 </sub>
 
+<br/><br/>
+
+<sub>
+Analytics Engineer · SQL · dbt · Snowflake · Python · ETL/ELT · Data Modeling
+</sub>
+
 <br/>
-<sub>Casablanca, Morocco · Simplon Maghreb</sub>
+
+<sub>
+Casablanca, Morocco · Simplon Maghreb
+</sub>
 
 </div>
