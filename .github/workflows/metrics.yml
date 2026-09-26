@@ -1,11 +1,17 @@
-# Generates metrics.svg and metrics.calendar.svg for the profile README
-# Full reference: https://github.com/lowlighter/metrics/blob/master/action.yml
+# Generates the two DYNAMIC panels used in README.md:
+#   assets/metrics-github.svg   -> GitHub stats + languages ("GitHub Metrics" section)
+#   assets/metrics-pulse.svg    -> isometric contribution calendar ("Activity Pulse" section)
+# Everything else in the README (hero, core metrics, stack analytics, flow,
+# project cards) is static because it comes from fixed project facts, not
+# from the GitHub API, and is committed once as plain SVG files.
+#
+# Full option reference: https://github.com/lowlighter/metrics/blob/master/action.yml
 name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day, midnight UTC
-  workflow_dispatch:       # allows manual runs from the Actions tab
+    - cron: "0 0 * * *"     # refresh once a day
+  workflow_dispatch:         # allow manual runs from the Actions tab
   push:
     branches: ["main"]
 
@@ -15,25 +21,25 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Core metrics: header, activity, repositories, most-used languages
-      - name: Generate base metrics
+      - name: GitHub stats + languages
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: assets/metrics-github.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ayoub-data-analyst
           base: header, activity, repositories
+          config_theme: dark
           plugin_languages: yes
-          plugin_languages_limit: 6
+          plugin_languages_limit: 8
           plugin_languages_threshold: 2%
 
-      # Isometric contribution calendar
-      - name: Generate contribution calendar
+      - name: Contribution / activity pulse
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.calendar.svg
+          filename: assets/metrics-pulse.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ayoub-data-analyst
           base: ""
+          config_theme: dark
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
