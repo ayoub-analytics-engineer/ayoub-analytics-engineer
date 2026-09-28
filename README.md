@@ -1,9 +1,8 @@
 <div align="center">
-<div align="center">
 
 # AYOUB EL-OUICHOUANY
 
-### Analytics Engineer | Data Engineer | Data Analyst
+### Analytics Engineer | Data Engineer
 
 📍 Casablanca, Morocco 🇲🇦
 
@@ -163,7 +162,7 @@ Open to opportunities in:
 
 **Analytics Engineering · Data Engineering · Data Analytics · Business Intelligence**
 
-I'm particularly interested in roles involving:
+Particularly interested in roles involving:
 
 `SQL` · `dbt` · `Data Modeling` · `ETL/ELT` · `Cloud Data Warehousing` · `Apache Airflow` · `Power BI`
 
