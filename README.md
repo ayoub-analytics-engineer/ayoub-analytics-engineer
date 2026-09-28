@@ -1,14 +1,27 @@
 <div align="center">
+<div align="center">
 
-# Ayoub El-ouichouany
+# AYOUB EL-OUICHOUANY
 
-### Analytics Engineer | Data Engineer
+### Analytics Engineer | Data Engineer | Data Analyst
 
 📍 Casablanca, Morocco 🇲🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-ouichouany/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://data-engineer.me/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub@data-engineer.me)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,azure" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
 
